@@ -30,7 +30,7 @@ Dentro del directorio AREP_LAB7/OtherService, desde la consola de comandos para 
 ```
 mvn package
 ```
-Para ejecutar el proyecto de manera local desde la consola de comandos ejecutamos la siguiente linea y desde un navegador buscamos `localhost:5001/` :
+Para ejecutar el proyecto de manera local desde la consola de comandos ejecutamos la siguiente linea y desde un navegador buscamos `localhost:5001/information` :
 ```
 java -cp target/classes;target/dependency/* edu.escuelaing.arep.app.App
 ```
